@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2027-08-10T09:00:00.000Z",
+      "notes": "Saw the pyramids!",
+      "position": {
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "id": 34567890
+    },
+    {
+      "cityName": "Rustaq",
+      "country": "Oman",
+      "emoji": "🇴🇲",
+      "position": {
+        "lat": 23.39377361313665,
+        "lng": 57.4292278289795
+      },
+      "date": "2025-06-14T21:57:57.218Z",
+      "notes": "My Best Life Here ❤️❤️❤️",
+      "id": 98443199
+    },
+    {
+      "cityName": "Leganes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": 40.32674148047327,
+        "lng": -3.7573242187500004
+      },
+      "date": "2025-06-14T21:59:15.980Z",
+      "notes": "",
+      "id": 98443200
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": 38.704879679838996,
+        "lng": -9.162597656250002
+      },
+      "date": "2025-06-14T21:59:19.146Z",
+      "notes": "",
+      "id": 98443201
+    }
+  ]
+}
