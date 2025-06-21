@@ -6,7 +6,7 @@ The project demonstrates modern React development, including global state manage
 
 ## Live Demo
 
-[Click here to view the live demo](https://your-live-demo-link.com)
+[WorldWise🌍.](https://worldwise-m7med.netlify.app/app/cities)
 
 ## What I Learned
 
@@ -27,8 +27,10 @@ The project demonstrates modern React development, including global state manage
 
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
-3. Run `npm run dev` to start the development server.
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+3. **Start the fake API server:**  
+   Run `npm run server` in your terminal to launch the local JSON server for API endpoints.
+4. In a new terminal, run `npm run dev` to start the development server.
+5. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Acknowledgements
 
