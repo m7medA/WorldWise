@@ -6,7 +6,7 @@ The project demonstrates modern React development, including global state manage
 
 ## Live Demo
 
-[WorldWise🌍.](https://worldwise-m7med.netlify.app/app/cities)
+[WorldWise🌍.](https://worldwise-m7med.netlify.app/)
 
 ## What I Learned
 
